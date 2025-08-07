@@ -4,9 +4,9 @@
 ## About Me  
 I’m a Web Developer passionate about building dynamic, responsive, and full-stack web applications. I thrive on creating seamless user experiences from design through deployment.
 
-![Almonsour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almonsoursalida&show_icons=true&theme=radical)
+![Almonsour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almonsour13&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almonsoursalida&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almonsour13&layout=compact)
 
 
 ## Skills & Technologies
