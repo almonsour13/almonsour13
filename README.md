@@ -1,13 +1,13 @@
 # Al‑Monsour M. Salida
 
-**Web Developer** — Est. 2025
-
----
 
 ## About Me  
 I’m a Web Developer passionate about building dynamic, responsive, and full-stack web applications. I thrive on creating seamless user experiences from design through deployment.
 
----
+![Almonsour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almonsoursalida&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almonsoursalida&layout=compact)
+
 
 ## Skills & Technologies
 
@@ -20,7 +20,6 @@ Node.js · Express · Laravel · Supabase · PostgreSQL · MySQL · MongoDB · F
 **Languages & Tools:**  
 Java · Python · PHP · TensorFlow
 
----
 
 ## Services
 
@@ -28,10 +27,6 @@ Java · Python · PHP · TensorFlow
 - **Backend Development** — Building APIs and server-side systems using Node.js, Express, MySQL, PostgreSQL  
 - **Full‑Stack Integration** — Delivering cohesive, scalable application architecture  
 - **UI/UX Design** — Designing intuitive, consistent, and user-friendly experiences
-
----
-
-## Contact
 
 **Email:** [almonsoursalida@gmail.com](mailto:almonsoursalida@gmail.com)  
 **Phone:** +63 956 993 2496  
