@@ -21,13 +21,6 @@ Node.js · Express · Laravel · Supabase · PostgreSQL · MySQL · MongoDB · F
 Java · Python · PHP · TensorFlow
 
 
-## Services
-
-- **Frontend Development** — Crafting responsive, accessible interfaces with React, Next.js, Tailwind CSS  
-- **Backend Development** — Building APIs and server-side systems using Node.js, Express, MySQL, PostgreSQL  
-- **Full‑Stack Integration** — Delivering cohesive, scalable application architecture  
-- **UI/UX Design** — Designing intuitive, consistent, and user-friendly experiences
-
 **Email:** [almonsoursalida@gmail.com](mailto:almonsoursalida@gmail.com)  
 **Phone:** +63 956 993 2496  
 **Location:** Lupon, Davao Oriental, Philippines  
