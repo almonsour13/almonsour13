@@ -57,6 +57,6 @@
 
 ---
 
-<p align="center">
+<p align="start">
   ⭐ Made with passion — Available for projects
 </p>
