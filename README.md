@@ -53,7 +53,6 @@
 📧 [almonsoursalida@gmail.com](mailto:almonsoursalida@gmail.com)  
 📱 +63 956 993 2496  
 📍 Lupon, Davao Oriental, Philippines  
-⏱ Response time: within 24 hours  
 
 ---
 
