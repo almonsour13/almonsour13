@@ -1,31 +1,62 @@
-# Al‑Monsour M. Salida
+<h1 align="center">Hi, I'm Al‑Monsour M. Salida 👋</h1>
 
-
-## About Me  
-I’m a Web Developer passionate about building dynamic, responsive, and full-stack web applications. I thrive on creating seamless user experiences from design through deployment.
-
-![Almonsour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almonsour13&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almonsour13&layout=compact)
-
-
-## Skills & Technologies
-
-**Frontend:**  
-HTML5 · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Expo
-
-**Backend & Databases:**  
-Node.js · Express · Laravel · Supabase · PostgreSQL · MySQL · MongoDB · Firebase · SQLite
-
-**Languages & Tools:**  
-Java · Python · PHP · TensorFlow
-
-
-**Email:** [almonsoursalida@gmail.com](mailto:almonsoursalida@gmail.com)  
-**Phone:** +63 956 993 2496  
-**Location:** Lupon, Davao Oriental, Philippines  
-Response time: within 24 hours
+<p align="center">
+  💻 Web Developer passionate about building dynamic, responsive, and full-stack web applications.  
+  I thrive on creating seamless user experiences from design through deployment.
+</p>
 
 ---
 
-⭐ Made with passion – Available for projects
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almonsour13&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almonsour13&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💡 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+#### 🧠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+#### 🧰 Other Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+### 📫 Contact Me
+
+📧 [almonsoursalida@gmail.com](mailto:almonsoursalida@gmail.com)  
+📱 +63 956 993 2496  
+📍 Lupon, Davao Oriental, Philippines  
+⏱ Response time: within 24 hours  
+
+---
+
+<p align="center">
+  ⭐ Made with passion — Available for projects
+</p>
