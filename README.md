@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Al‑Monsour M. Salida 👋</h1>
+<h1 align="start">Hi, I'm Al‑Monsour M. Salida 👋</h1>
 
-<p align="center">
+<p align="start">
   💻 Web Developer passionate about building dynamic, responsive, and full-stack web applications.  
   I thrive on creating seamless user experiences from design through deployment.
 </p>
@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=almonsour13&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almonsour13&layout=compact&theme=radical" alt="Top Languages" />
