@@ -55,5 +55,5 @@
 ---
 
 <p align="start">
-  ⭐ Made with passion — Available for projects
+  ⭐ Available for projects
 </p>
